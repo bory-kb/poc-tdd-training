@@ -7,17 +7,17 @@
         {
         }
 
-        public string Convert(int num)
+        public static string Convert(int num)
         {
-            if(num == 15)
+            if(num % 15 == 0)
             {
                 return "FizzBuzz";
             }
-            if(num % 3 == 0)
+            else if(num % 3 == 0)
             {
                 return "Fizz";
             }
-            if (num % 5 == 0)
+            else if (num % 5 == 0)
             {
                 return "Buzz";
             }
