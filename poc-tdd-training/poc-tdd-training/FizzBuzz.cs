@@ -9,6 +9,10 @@
 
         public string returnNum(int num)
         {
+            if(num == 3)
+            {
+                return "Fizz";
+            }
             
             return num.ToString();
         }
