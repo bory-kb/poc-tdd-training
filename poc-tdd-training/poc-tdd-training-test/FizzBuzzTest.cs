@@ -42,5 +42,11 @@ namespace poc_tdd_training_test
         {
             Assert.AreEqual("Buzz", _fizzBuzz.Convert(5));
         }
+
+        [Test]
+        public void ”š15‚ğ“n‚µ‚Ä”š‚Ì‘ã‚í‚è‚ÉFizzBuzz‚ğ•Ô‚·()
+        {
+            Assert.AreEqual("FizzBuzz", _fizzBuzz.Convert(15));
+        }
     }
 }
