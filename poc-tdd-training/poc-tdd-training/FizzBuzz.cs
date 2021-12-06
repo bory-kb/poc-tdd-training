@@ -7,13 +7,13 @@
         {
         }
 
-        public static string Convert(int num)
+        public string Convert(int num)
         {
-            if(num % 15 == 0)
+            if (num % 15 == 0)
             {
                 return "FizzBuzz";
             }
-            else if(num % 3 == 0)
+            else if (num % 3 == 0)
             {
                 return "Fizz";
             }
@@ -21,7 +21,7 @@
             {
                 return "Buzz";
             }
-            
+
             return num.ToString();
         }
     }
