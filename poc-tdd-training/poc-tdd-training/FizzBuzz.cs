@@ -7,9 +7,10 @@
         {
         }
 
-        public string returnNum()
+        public string returnNum(int num)
         {
-            return "1";
+            
+            return num.ToString();
         }
     }
 }
