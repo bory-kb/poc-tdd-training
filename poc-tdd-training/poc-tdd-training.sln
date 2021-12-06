@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poc-tdd-training", "poc-tdd-training\poc-tdd-training.csproj", "{A62C918A-C98F-4187-BE39-BD03E42F3D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poc-tdd-training-test", "poc-tdd-training-test\poc-tdd-training-test.csproj", "{8AABF4F9-F2AC-481D-8A1C-30645BFBDBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62C918A-C98F-4187-BE39-BD03E42F3D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62C918A-C98F-4187-BE39-BD03E42F3D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62C918A-C98F-4187-BE39-BD03E42F3D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62C918A-C98F-4187-BE39-BD03E42F3D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AABF4F9-F2AC-481D-8A1C-30645BFBDBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AABF4F9-F2AC-481D-8A1C-30645BFBDBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AABF4F9-F2AC-481D-8A1C-30645BFBDBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AABF4F9-F2AC-481D-8A1C-30645BFBDBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1B8CD8-F2F5-4543-9A1E-C6FDE916702F}
+	EndGlobalSection
+EndGlobal
