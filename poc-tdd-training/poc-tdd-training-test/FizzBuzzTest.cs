@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using poc_tdd_training;
 
 namespace poc_tdd_training_test
 {
@@ -10,9 +11,12 @@ namespace poc_tdd_training_test
         }
 
         [Test]
-        public void Test1()
+
+        public void ”š1‚ğ“n‚µ‚Ä•¶š—ñ1‚ğ•Ô‚·()
         {
-            Assert.Pass();
+            var fizzBuzz = new FizzBuzz();
+            string ret = fizzBuzz.returnNum();
+            Assert.AreEqual("1", ret);
         }
     }
 }

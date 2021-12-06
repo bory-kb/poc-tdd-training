@@ -1,7 +1,15 @@
-﻿class FizzBuzz
+﻿namespace poc_tdd_training
 {
-    public static void Main()
+
+    public class FizzBuzz
     {
-        Console.WriteLine("aaa");
+        public static void Main()
+        {
+        }
+
+        public string returnNum()
+        {
+            return "1";
+        }
     }
 }

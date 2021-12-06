@@ -97,3 +97,9 @@ C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test
 C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\obj\Debug\net6.0\ref\poc-tdd-training-test.dll
 C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\obj\Debug\net6.0\poc-tdd-training-test.pdb
 C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\obj\Debug\net6.0\poc-tdd-training-test.genruntimeconfig.cache
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\poc-tdd-training.deps.json
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\poc-tdd-training.runtimeconfig.json
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\poc-tdd-training.exe
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\poc-tdd-training.dll
+C:\source\repos\Training\poc-tdd-training\poc-tdd-training\poc-tdd-training-test\bin\Debug\net6.0\poc-tdd-training.pdb
