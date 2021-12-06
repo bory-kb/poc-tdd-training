@@ -15,8 +15,15 @@ namespace poc_tdd_training_test
         public void ”š1‚ğ“n‚µ‚Ä•¶š—ñ1‚ğ•Ô‚·()
         {
             var fizzBuzz = new FizzBuzz();
-            string ret = fizzBuzz.returnNum();
+            string ret = fizzBuzz.returnNum(1);
             Assert.AreEqual("1", ret);
+        }
+        [Test]
+        public void ”š2‚ğ“n‚µ‚Ä•¶š—ñ2‚ğ•Ô‚·()
+        {
+            var fizzBuzz = new FizzBuzz();
+            string ret = fizzBuzz.returnNum(2);
+            Assert.AreEqual("2", ret);
         }
     }
 }
